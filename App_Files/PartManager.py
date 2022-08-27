@@ -77,8 +77,11 @@ root = Tk()
 root.geometry('700x350')
 root.title('Part Manager')
 root.iconbitmap('C:/Python_Projects/Part_Manager/App_Files/Icon.ico')
-btn_bg = '#30acbf'
-bg = '#1e808f'
+btn_bg = 'white'
+bg = '#464a4d'
+
+# btn_bg = '#30acbf'
+# bg = '#1e808f'
 fg = 'white'
 font = 'Bold 11'
 
