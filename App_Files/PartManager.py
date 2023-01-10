@@ -76,7 +76,7 @@ def delete_table():
 root = Tk()
 root.geometry('700x350')
 root.title('Part Manager')
-root.iconbitmap('C:/Python_Projects/Part_Manager/App_Files/Icon.ico')
+# root.iconbitmap('C:/Python_Projects/Part_Manager/App_Files/Icon.ico')
 btn_bg = 'white'
 bg = '#464a4d'
 
